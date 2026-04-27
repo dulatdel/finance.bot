@@ -1,4 +1,4 @@
-print("Бот запущен")
+print("Бот запущен") 
  
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
